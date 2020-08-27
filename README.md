@@ -12,8 +12,6 @@
 
 因为想熟悉VIM的使用，所以主要采用VIM
 
-[github.com/NEPTLIANG/Web/tree/master/intelli-edu-admin](https://github.com/NEPTLIANG/Web/tree/master/intelli-edu-admin)
-
 ---
 
 # intelli-edu-admin
